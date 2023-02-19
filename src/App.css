@@ -331,7 +331,8 @@ img {
       color: var(--green);
       border: 1px solid var(--green);
       background-color: none;
-      padding: 2%;
+      margin-top: 20px;
+      padding: 3%;
   }
   
   .download-btn:hover{
