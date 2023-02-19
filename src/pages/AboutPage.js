@@ -9,7 +9,7 @@ export default function AboutPage() {
                 <p>¿Quién soy?</p>
                 <h3>Sobre mí</h3>
                 <p>
-                    Mi nombre es Marcelo Morinigo, Soy Programador web y estoy en 2° Bachillerato técnico en informática; me apasiona la programación y el mundo de la informática en general.           
+                    Mi nombre es Marcelo Morinigo, Soy Programador web y estoy en el último año del Bachillerato técnico en informática; me apasiona la programación y el mundo de la informática en general.           
                 </p>
                 <a href="/Curriculum Marcelo Morinigo.pdf" download="Curriculum Marcelo Morinigo.pdf"><button className="download-btn">Download CV</button></a>
             </div>     
