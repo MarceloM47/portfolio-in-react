@@ -16,6 +16,7 @@ export default function Navbar() {
                 <Link to='/skills'>Skills</Link>
             </li>
         </ul>
+
     </nav>
 </header>
   )
